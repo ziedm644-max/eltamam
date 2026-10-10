@@ -1,0 +1,14 @@
+{
+  "name": "mr-ibrahim-el-tamam-platform",
+  "version": "1.0.0",
+  "description": "منصة مستر إبراهيم التمام التعليمية - تاريخ ودراسات اجتماعية",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
